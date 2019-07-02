@@ -1,0 +1,5 @@
+﻿Log Suiteinfo()
+
+repeat 20 times
+	log "This is a test"
+end repeat
